@@ -1,0 +1,15 @@
+:: StorySettings
+ifid:df110ce4-ea62-46a7-95d4-01f54ebcc64c
+
+::StoryTitle
+A TESTING STORY!
+
+::Start
+Content of the //A passage with no tags// passage.  Further down the rabit hole is [[Another passage]].  Will you descend?
+
+::Another passage
+but with three tags [alfa bravo charlie]
+Content of the "Another passage, but with three tags" passage.
+The three tags are: alfa, bravo, charlie.  Wow, this is crazy
+
+
